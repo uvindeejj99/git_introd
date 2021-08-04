@@ -1,0 +1,13 @@
+---
+title: "Github file"
+author: "Uvindee Jayaweera"
+date: "04/08/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Github setup test 
+My first github file 
